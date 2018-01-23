@@ -25,7 +25,7 @@ Version : 1.0
 **Linux:**
     
     
-   Jak wyżej odpowiedniki dla Linux.
+   Jak wyżej odpowiedniki dla systemu Linux.
 
 ## **Praca z testami**
 
