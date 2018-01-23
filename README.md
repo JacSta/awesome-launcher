@@ -7,7 +7,8 @@ Version : 1.0
 
 ## **Wymagania:**
 
-* **windows** potrzebne jest zainstalowanie GITa dla Windows [https://git-for-windows.github.io](https://git-for-windows.github.io/)
+**Windows:** potrzebne jest zainstalowanie GITa dla Windows [https://git-for-windows.github.io](https://git-for-windows.github.io/)
+
 * **python** potrzebne jest zainstalowanie Python3 [https://www.python.org/downloads/](https://www.python.org/downloads/)
     * dodatkowo trzeba zainstalować plugin **selenium**, w katalogu głównym Python'a należy wykonać: `pip install selenium==3.6.0`
         * biblioteka **selenium** w wersji 3.6.0.
@@ -20,6 +21,9 @@ Version : 1.0
     * gecko (dla Firefox) i chrome driver:
         * geckodriver do pobrania z [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
         * chromedriver do pobrania z [https://sites.google.com/a/chromium.org/chromedriver/](https://sites.google.com/a/chromium.org/chromedriver/)
+        
+**Linux:**
+    Jak wyżej odpowiedniki dla Linux.
 
 ## **Praca z testami**
 
