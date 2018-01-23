@@ -23,7 +23,9 @@ Version : 1.0
         * chromedriver do pobrania z [https://sites.google.com/a/chromium.org/chromedriver/](https://sites.google.com/a/chromium.org/chromedriver/)
         
 **Linux:**
-    Jak wyżej odpowiedniki dla Linux.
+    
+    
+   Jak wyżej odpowiedniki dla Linux.
 
 ## **Praca z testami**
 
