@@ -1,3 +1,8 @@
+Authors : Sebastian Bukowski and Jacek Stachowiak
+Copyright : Sebastian Bukowski and Jacek Stachowiak
+License : GNU General Public License v3.0
+Version : 1.0
+
 # **Środowisko uruchomieniowe**
 
 ## **Wymagania:**
